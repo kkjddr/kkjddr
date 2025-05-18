@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
  <img src="https://i.pinimg.com/736x/7f/f5/8f/7ff58f8cb344fabeca48059088d8adca.jpg" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(3589).png" width="90"/> 
@@ -18,6 +17,9 @@
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(692).gif" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(717).gif" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(747).png" width="90"/> 
+
+ <img src="https://external-media.spacehey.net/media/sp1BrRWRaQ8ZeKZJp_YvA8UhE3tksFNwWWIxa_JrOOSo=/https://media.everskies.com/QKAIft3yVA_rRceyVKxQ.gif" width="300"/> 
+
  <img src="https://64.media.tumblr.com/c50bdf29db30a11b145ffa82f191ed31/3c74d06b377fdc9b-b2/s250x250_c1/275a1a2dedec62bb9c279192c34cebadf7f33c61.pnj" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(903).png" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(979).png" width="90"/> 
@@ -78,7 +80,6 @@
 <img src="https://64.media.tumblr.com/75f1cf07b98b2833a656cc82c6455e78/473928ea48888009-97/s250x250_c1/fa737e549e9af137bd082ed52db297fac867f9ef.gifv" width="90"/> 
 <img src="https://64.media.tumblr.com/1ec32be0117e9cf780ad33dcac9a9248/473928ea48888009-f3/s250x250_c1/4842301c4d62340d74f0d3afd8a2d4232bb86074.jpg" width="90"/> 
 <img src="https://64.media.tumblr.com/68bb9e71ec030bfeb579002c6761aa36/f943d9890bee0f57-d7/s250x250_c1/7b7d260456ba14e7142a1b44b0656a73b226b2ed.gifv" width="90"/> 
-
 <img src="https://64.media.tumblr.com/1a163e0a59d02f375bc8f653359bbab6/68ed98fcd9e3aaa5-f8/s250x400/feab0ba68d8d49e4833022732b2b0003c7968c2c.pnj" width="90"/>
 <img src="https://64.media.tumblr.com/d6426def0312d682a3826ea5998c236a/181ef86fd5fa91d2-9b/s250x250_c1/83f47ea7a84de7dc2c3726507ea6662db90da548.gifv" width="90"/>
 <img src="https://64.media.tumblr.com/d972a5d290d087a04d20994453beb2a0/a7669057a8570d26-10/s250x250_c1/2c5110e9936bd87f99aa459b834ee6f84b26baea.gifv" width="90"/>
