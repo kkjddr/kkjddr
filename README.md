@@ -18,10 +18,10 @@
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(717).gif" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(747).png" width="90"/> 
 </div>
-
+<div id="header" align="center">
  <img src="https://media.tenor.com/upQoFhnEAxoAAAA1/willwood-blinkie.webp" width="300"/> 
  <img src="https://media1.tenor.com/m/ndDIVmYjYWcAAAAC/blinkie-tf2.gif" width="300"/> 
-
+</div>
 <div id="header" align="center">
  <img src="https://64.media.tumblr.com/c50bdf29db30a11b145ffa82f191ed31/3c74d06b377fdc9b-b2/s250x250_c1/275a1a2dedec62bb9c279192c34cebadf7f33c61.pnj" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(903).png" width="90"/> 
