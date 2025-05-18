@@ -18,7 +18,6 @@
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(717).gif" width="90"/> 
  <img src="https://heroin-bob.github.io/SpaceHeyLayoutEditor/images/stamps/STAMP%20(747).png" width="90"/> 
 
- <img src="https://external-media.spacehey.net/media/sp1BrRWRaQ8ZeKZJp_YvA8UhE3tksFNwWWIxa_JrOOSo=/https://media.everskies.com/QKAIft3yVA_rRceyVKxQ.gif" width="300"/> 
  <img src="https://media.tenor.com/upQoFhnEAxoAAAA1/willwood-blinkie.webp" width="300"/> 
  <img src="https://media1.tenor.com/m/ndDIVmYjYWcAAAAC/blinkie-tf2.gif" width="300"/> 
 
